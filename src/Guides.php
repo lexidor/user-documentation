@@ -73,7 +73,15 @@ final class Guides {
         ],
         'callables' => dict[
           'special-functions' => tuple('types', 'anonymous-function-objects'),
-        ],
+          ],
+	'expressions-and-operators' => dict[
+	  'closure-creation' => tuple('functions', 'anonymous-functions'),
+	  'lambda-creation' => tuple('functions', 'anonymous-functions'),
+	],
+	'functions' => dict[
+	  'defining-a-function' => tuple('functions', 'introduction'),
+	  'some-basics' => tuple('functions', 'introduction'),
+	],
         'operators' => dict[
           'lambda' => tuple('functions', 'anonymous-functions'),
           'pipe' => tuple('expressions-and-operators', 'pipe'),
