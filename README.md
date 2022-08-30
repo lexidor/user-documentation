@@ -15,3 +15,5 @@ There are three keys areas to this repo:
 * **Infrastructure**: An easier, more modular and scalable way for documentation. Markdown for [user-guide](https://github.com/hhvm/user-documentation/tree/master/guides) content. Easy to follow, Hack-based [source code](https://github.com/hhvm/user-documentation/tree/master/src) for building the site.
 
 Check out the [source code](https://github.com/hhvm/user-documentation/tree/master/src) for building the site. [`bin/build.php`](https://github.com/hhvm/user-documentation/blob/master/bin/build.php) is where all the execution begins.
+
+Run tests
